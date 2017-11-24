@@ -4,8 +4,8 @@ import java.io.File;
 import java.io.IOException;
 
 import is2.data.SentenceData09;
+import is2.parserR2.Parser;
 import is2.tools.Tool;
-import is2.transitionS2a.Parser;
 import se.lth.cs.srl.languages.Language;
 import se.lth.cs.srl.preprocessor.tokenization.Tokenizer;
 import se.lth.cs.srl.util.Util;

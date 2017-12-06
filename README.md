@@ -1,6 +1,13 @@
 # mateplus langstok maven
 
-[anna3.3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mate-tools/anna-3.3.jar)
+Download [anna-3.3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mate-tools/anna-3.3.jar)
+and install to local repository
+
+    <dependency>
+        <groupId>com.github.microth</groupId>
+        <artifactId>mateplus</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </dependency>
 
 # mateplus
 

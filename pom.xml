@@ -19,14 +19,19 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>com.googlecode.mate-tools</groupId>
+			<artifactId>anna</artifactId>
+			<version>3.3</version>
+		</dependency>
+		<dependency>
 			<groupId>org.riedelcastro</groupId>
 			<artifactId>whatswrong</artifactId>
 			<version>0.2.4</version>
 		</dependency>
 		<dependency>
-			<groupId>edu.stanford.nlp</groupId>
-			<artifactId>stanford-parser</artifactId>
-			<version>3.2.0</version>
+			<groupId>de.bwaldvogel</groupId>
+			<artifactId>liblinear</artifactId>
+			<version>1.7.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.opennlp</groupId>
@@ -45,19 +50,14 @@
 			<version>3.0.2-incubating</version>
 		</dependency>
 		<dependency>
-			<groupId>com.googlecode.mate-tools</groupId>
-			<artifactId>anna</artifactId>
-			<version>3.3</version>
+			<groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-parser</artifactId>
+			<version>3.2.0</version>
 		</dependency>
 		<dependency>
 			<groupId>edu.stanford.nlp</groupId>
 			<artifactId>stanford-corenlp</artifactId>
 			<version>3.2.0</version>
-		</dependency>
-		<dependency>
-			<groupId>de.bwaldvogel</groupId>
-			<artifactId>liblinear</artifactId>
-			<version>1.7.1</version>
 		</dependency>
 	</dependencies>
 
